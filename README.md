@@ -1,3 +1,26 @@
+
+🎉 Nguồn mở cực kỳ thú vị biến phụ đề SRT thành video bảng trắng vẽ tay bằng AI
+
+SRT Whiteboard Animation của geeklee là một AI Skill khá thú vị, biến file SRT phụ đề thành video whiteboard animation với hiệu ứng nét vẽ liên tục, phù hợp làm video giải thích, bài giảng và nội dung kiến thức. 
+
+Điểm nổi bật
+
+* SRT → Whiteboard Video: lấy nội dung phụ đề làm nền tảng để xây dựng từng cảnh.
+* Nét vẽ liên tục: mô phỏng quá trình bút thực sự đang vẽ thay vì hiệu ứng xuất hiện từng khung hình.
+* 3 giai đoạn: vẽ line-art → tô màu → giữ nguyên hình hoàn chỉnh.
+* Tự động tạo hình minh họa khi chỉ có bài viết, kịch bản hoặc storyboard.
+* Phong cách đồng nhất: giấy màu be, nét sketch xám đậm, điểm nhấn cam và nhiều khoảng trắng.
+* Batch rendering: hỗ trợ nhiều hình và ghép thành một video hoàn chỉnh.
+* Xuất H.264 MP4, hỗ trợ điều chỉnh đường nét, tốc độ, cách tô màu và hiệu ứng bàn tay/bút. 
+
+Điểm hay của dự án là nó không đơn thuần tạo hiệu ứng “vẽ lại ảnh”, mà xây dựng cả workflow từ nội dung → cảnh → hình minh họa → animation → video.
+
+Đặc biệt phù hợp để tạo video bài giảng, giải thích thuật toán, kiến thức khoa học, storytelling và video giáo dục theo phong cách whiteboard tối giản.
+
+Một AI Skill nhỏ nhưng rất thực dụng cho những ai muốn biến nội dung chữ thành video giải thích trực quan.
+
+
+
 # SRT 白板动画 Skill
 
 将 SRT 字幕转为按叙事顺序绘制的白板手绘视频Skill。它结合了**分区遮罩编排**与**流式笔迹绘制**：每个元素跟随字幕依次出场，笔尖在区域内连续落墨，再逐步添彩，最终导出 MP4。
